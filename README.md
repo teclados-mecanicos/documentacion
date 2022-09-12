@@ -1,1 +1,1 @@
-Visita nuestra wiki para ver toda la información
+Visita nuestra [wiki](https://github.com/teclados-mecanicos/documentacion/wiki) para ver toda la información
